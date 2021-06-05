@@ -5,7 +5,7 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MunoDevelop&count_private=true&show_icons=true&theme=react)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MunoDevelop&layout=compact&theme=react)
  
  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Malkoring)](https://solved.ac/huozuyinshua)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=huozuyinshua)](https://solved.ac/huozuyinshua)
 
 
 - 🔭 I’m currently working on ...
